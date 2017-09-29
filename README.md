@@ -5,3 +5,5 @@
  附上效果截图
 ![](https://github.com/Zhongwei123/compuational_physics_N2015301020164/blob/master/%E5%8A%A8%E5%9B%BE%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A.gif.gif)
 - [x] [Exercise 03;chapter1T3](https://www.zybuluo.com/mdeditor#902317-full-reader)
+
+
