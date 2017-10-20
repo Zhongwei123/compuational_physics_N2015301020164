@@ -7,4 +7,4 @@
 - [x] [Exercise 03;chapter1T3](https://www.zybuluo.com/mdeditor#902317-full-reader) 
 - [x] [Exercise 04;chapter2 T2.7](https://www.zybuluo.com/mdeditor#914048-full-reader)
 - [x] [Exercise 04;pygame抛体运动](https://www.zybuluo.com/mdeditor#914509-full-reader)
-- [x] [Exercise 05;chapter2 T2.20]()
+- [x] [Exercise 05;chapter2 T2.20](https://www.zybuluo.com/mdeditor#893563-full-reader)
