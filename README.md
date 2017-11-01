@@ -9,3 +9,4 @@
 - [x] [Exercise 04;pygame抛体运动](https://www.zybuluo.com/mdeditor#914509-full-reader)
 - [x] [Exercise 05;chapter2 T2.20](https://www.zybuluo.com/mdeditor#922468-full-reader)
 - [x] [Exercise 06;chapter3 T3.12](https://www.zybuluo.com/mdeditor#930208-full-reader)
+- [x] [Exercise 07;chapter3 T3.18]（https://www.zybuluo.com/mdeditor#930208）
