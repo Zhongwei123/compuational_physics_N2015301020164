@@ -10,3 +10,4 @@
 - [x] [Exercise 05;chapter2 T2.20](https://www.zybuluo.com/mdeditor#922468-full-reader)
 - [x] [Exercise 06;chapter3 T3.12](https://www.zybuluo.com/mdeditor#930208-full-reader)
 - [x] [Exercise 07;chapter3 T3.18](https://www.zybuluo.com/mdeditor#935714-full-reader)
+- [x] [Exercise 08;chapter4 T4.7](https://www.zybuluo.com/mdeditor#944791-full-reader)
