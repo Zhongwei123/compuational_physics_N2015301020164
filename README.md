@@ -12,3 +12,4 @@
 - [x] [Exercise 07;chapter3 T3.18](https://www.zybuluo.com/mdeditor#935714-full-reader)
 - [x] [Exercise 08;chapter4 T4.7](https://www.zybuluo.com/mdeditor#944791-full-reader)
 - [x] [Exercise;期中作业pygame](https://www.zybuluo.com/mdeditor#947219-full-reader)
+- [x] [Exercise;09;chapter4 T4.16](https://www.zybuluo.com/mdeditor#971087-full-reader)
