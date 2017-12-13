@@ -14,4 +14,5 @@
 - [x] [Exercise;期中作业pygame](https://www.zybuluo.com/zhongwei1234/note/947219)
 - [x] [Exercise;09;chapter4 T4.16](https://www.zybuluo.com/zhongwei1234/note/971087)
 - [x] [Exercise;10;chapter4 T5.3](https://www.zybuluo.com/zhongwei1234/note/979302)
-亲爱 的助教老师您好 前几天才发现我的网址贴错了 只有自己能看。现在修好了，不过作业部落上的日期给我更新了，但请您相信我每次都是按时交作业的好孩子
+- [ ] 亲爱 的助教老师您好 前几天才发现我的网址贴错了 只有自己能看。现在修好了，不过作业部落上的日期给我更新了，
+但请您相信我每次都是按时交作业的好孩子，望老师谅解，能给我重新打分
