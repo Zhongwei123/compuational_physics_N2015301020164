@@ -15,6 +15,6 @@
 - [x] [Exercise;09;chapter4 T4.16](https://www.zybuluo.com/zhongwei1234/note/971087)
 - [x] [Exercise;10;chapter5 T5.3](https://www.zybuluo.com/zhongwei1234/note/979302)
 - [x] [Exercise;11;chapter6 T6.4](https://www.zybuluo.com/zhongwei1234/note/985342)
-- [x] [期末作业，蛋白质三级结构]()
+- [x] [期末作业，蛋白质三级结构](https://github.com/Zhongwei123/compuational_physics_N2015301020164/blob/master/%E6%95%B0%E5%80%BC%E6%A8%A1%E6%8B%9F%E8%9B%8B%E7%99%BD%E8%B4%A8%E7%9A%84%E4%B8%89%E7%BA%A7%E7%BB%93%E6%9E%84%E5%8F%8ALevinthal%E6%82%96%E8%AE%BA.pdf)
 - [ ] 亲爱 的助教老师您好 前几天才发现我的网址贴错了 只有自己能看。现在修好了，不过作业部落上的日期给我更新了，
 但请您相信我每次都是按时交作业的好孩子，望老师谅解，能给我重新打分
